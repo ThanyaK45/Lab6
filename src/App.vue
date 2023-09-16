@@ -9,7 +9,7 @@ const travelList = ref([
   { name: "RiverSide", price: 150, size: { s: 150, m: 190, l: 300 }, img: "https://i.pinimg.com/1200x/23/4c/66/234c6672b08f6847e8f011b3c7ba376e.jpg" },
   { name: "WarmUp", price: 100, size: { s: 100, m: 200, l: 500 }, img: "https://tidroam.com/wp-content/uploads/2022/09/14-1.jpg" },
   { name: "ตะวันแดง", price: 90, size: { s: 90, m: 250, l: 700 }, img: "https://sls-prod.api-onscene.com/partner_files/trueidintrend/21246/CC697BDB-184E-48B4-9CD1-A85019FE3B35.jpeg" },
-  { name: "ไวท์เฮ้าส์", price: 90, size: { s: 120, m: 220, l: 800 }, img: "https://img.wongnai.com/p/624x0/2018/04/18/cd28b784e56c4e88bbc3e39c325fc0a6.jpg" },
+  { name: "เลอเนิร์ฟ", price: 90, size: { s: 120, m: 220, l: 800 }, img: "https://scontent.fcnx1-1.fna.fbcdn.net/v/t39.30808-6/277572740_1363412394144490_4132382865968867042_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=52f669&_nc_ohc=x6-Fm0rT0AwAX9fboE1&_nc_oc=AQnvm9hh6-DoE17jWOQX6zbalybKyzLb8O361IuWvkJ0Ntoa4ghSOFhYU0QvpetAAtc&_nc_ht=scontent.fcnx1-1.fna&oh=00_AfBkoLf4eeVEeK-C-kNdMHc65wI60GM1NLoqA8gH0IeGzg&oe=650AF78F" },
 ]);
 
 const bookingList=ref ([])
